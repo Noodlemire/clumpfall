@@ -10,12 +10,11 @@ Initial Clump:
     +Beds have been excluded from the clump_fall_node group due to major issues with how they fall
     +Documented most of the above
 
-Clump 2:
+Clump The Second:
     +Created this changelog
     +Added an actual description to the documentation of spawn_falling_node (whoops), also revisioned a few other random pieces of documentation
     +Whenever a node falls, all nearby falling_nodes and attached_nodes are updated to prevent such nodes from floating after clump_fall_nodes fall
     +Clump Fall Nodes no longer repeatedly try to fall when placed on top of nodes in the falling_node group like sand or gravel
-    *Swapped the order of action registers and the minetest.after, just in case.
     +Split a majority of init.lua into functions.lua and override.lua, with clumpfall as the global variable
     *Renamed function clump_fall to do_clump_fall to be less confusable with global clumpfall
     -Re-included beds in the clump_fall_node group

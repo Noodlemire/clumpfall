@@ -11,7 +11,7 @@ This mod is designed to allow almost every node in Minetest to fall down, simila
 -------------------------------------------------------------------------------------------------------------
 Dependencies and Support
 -------------------------------------------------------------------------------------------------------------
-This mod has no dependencies, not even optional ones. Support that this mod has for others is built-in and automatic, able to effect all added nodes without much issue, and is able to correctly differentiate between nodes that should be Clump Fall Nodes and nodes that are Falling Nodes, Attached Nodes, Liquid, or Unbreakable.
+This mod has only one dependency, for the mod entitycontrol, which is used to fix some glitches with Clump Fall Behavior. Other than that, support that this mod has for others is built-in and automatic, able to effect all added nodes without much issue, and is able to correctly differentiate between nodes that should be Clump Fall Nodes and nodes that are Falling Nodes, Attached Nodes, Liquid, or Unbreakable.
 
 -------------------------------------------------------------------------------------------------------------
 License
