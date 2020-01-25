@@ -1,0 +1,10 @@
+#The amount of time, in seconds, that must pass before another clump can fall.
+clumpfall_clump_interval (Clumpfall's Clump Interval) float 1
+
+#Increasing this increases that maximum size of each individual clump.
+#Warning: Increasing this setting can cause a lot of lag!
+clumpfall_clump_radius (Clumpfall's Clump Radius) int 1
+
+#Multiply each node's support radius by this number. This means that increasing it will make all nodes easier to support.
+#However, at minimum, a clump fall node will always be supported if its lower edge or corner touches another clump fall node.
+clumpfall_support_radius (Clumpfall's Support Radius) float 1
