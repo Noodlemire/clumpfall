@@ -16,7 +16,7 @@ This mod has only one dependency, for the mod entitycontrol, which is used to fi
 -------------------------------------------------------------------------------------------------------------
 License
 -------------------------------------------------------------------------------------------------------------
-The Apache 2.0 License is used with this mod. See http://www.apache.org/licenses/LICENSE-2.0 or LICENSE.md for more details.
+The LGPL v2.1 License is used with this mod. See https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html or LICENSE.txt for more details.
 
 -------------------------------------------------------------------------------------------------------------
 Installation
